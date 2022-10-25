@@ -33,7 +33,7 @@
 }
 .section2{
 	font-size: 30px;
-    padding: 10% 0% 10% 10%;
+    padding: 10% 0% 5% 10%;
 	display: flex;
 	justify-content: space-between;
 }
@@ -42,6 +42,35 @@
 	padding: 5% 0% 5% 3%;
 	font-size: 30px;
 }
+.section3{
+	background-color: skyblue;
+	font-size: 20px;
+	padding: 5% 10% 5% 8%;
+}
+.mainly{
+	display: flex;
+	justify-content: space-evenly;
+}
+.mainly img{
+	width: 50%;
+}
+.section4{
+	background-color: #00BAF2;
+	font-size: 20px;
+	padding: 5% 10% 5% 8%;
+}
+.closely{
+	display: flex;
+	justify-content: space-evenly;
+}
+.closely img{
+	width: 50%;
+}
+
+
+
+
+
 
 
 
