@@ -31,7 +31,7 @@
 	padding: 2% 0% 2% 3%;
 
 }
-.section2{
+.section1{
 	font-size: 30px;
     padding: 10% 0% 5% 10%;
 	display: flex;
@@ -42,7 +42,7 @@
 	padding: 5% 0% 5% 3%;
 	font-size: 30px;
 }
-.section3{
+.section2{
 	background-color: skyblue;
 	font-size: 20px;
 	padding: 5% 10% 5% 8%;
@@ -54,7 +54,7 @@
 .mainly img{
 	width: 50%;
 }
-.section4{
+.section3{
 	background-color: #00BAF2;
 	font-size: 20px;
 	padding: 5% 10% 5% 8%;
@@ -66,6 +66,64 @@
 .closely img{
 	width: 50%;
 }
+.maindiv{
+	background-color: white;
+	display: flex;
+	justify-content: space-evenly;
+}
+.remainly{
+	padding-left: 5%;
+}
+.mainly4{
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+.section4{
+	padding: 4% 13% 2% 10%;
+	background-color: rgba(239, 239, 239, 0.5);
+}
+.button{
+	background-color: black;
+	padding: 4%;
+	border-radius: 20px;
+	color: white;
+	width: 60%;
+	margin: 2% 4% 2% 4%;
+	margin-top: 5%;
+}
+.section5{
+	padding: 0.2% 8% 1.5% 5%;
+	background-color: rgba(239, 239, 239, 0.5);
+
+}
+.closely{
+	background-color: white;
+	display: flex;
+	justify-content: space-evenly;
+	margin: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
 
 
 
