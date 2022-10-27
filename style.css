@@ -102,6 +102,99 @@
 	justify-content: space-evenly;
 	margin: 5%;
 }
+.section6{
+	padding: 0.2% 8% 1.5% 5;
+	background-color: rgba(239, 239, 239, 0.5);
+}
+.button2{
+	padding: 3% 12% 3% 12%;
+	margin-top: 6%;
+	background-color: darkblue;
+	color: white;
+	font-family: 'poppins', sans-serif;
+	border-radius: 25px;
+	font-size: 19px;
+}
+.button2:hover{
+	background-color: skyblue;
+
+}
+.sec6maindiv{
+	display: flex;
+	justify-content: space-evenly;
+}
+.sec6div1{
+	padding: 5%;
+}
+.sec6div2{
+	display: flex;
+	padding: 5% 5% 1% 5%;
+}
+.section7{
+	background-color: rgba(239, 239, 239, 0.5);
+	padding: 0.2% 8% 1.5% 5%;
+	display: flex;
+}
+.card22{
+	margin-top: 10%;
+	padding: 4%;
+	font-size: 40px;
+	font-family: 'poppins', sans-serif;
+}
+.sec7p1{
+	margin-top:5%;
+	padding: 4%;
+	font-size: 20px;
+}
+.sec7p1{
+	margin-top: 5%;
+	padding: 4%;
+	font-size: 20px;
+	font-family: 'poppins', sans-serif;
+}
+.sech2{
+	margin-top: 10px;
+	padding: 4%;
+	font-size: 40px;
+	font-family: 'poppins', sans-serif; 
+}
+.sec7p2{
+	margin-top: 5%;
+	padding: 4%;
+	font-size: 20px;
+	font-family: 'poppins', sans-serif;  
+}
+.maindiv7{
+	display: flex;
+	padding: 0.2% 8% 1.5% 5;
+	margin-right: 4%;
+	margin-left: 3%;
+	justify-content: space-evenly;
+}
+.card22{
+	background-color: white;
+	padding:  0.2% 8% 1.5% 5;
+	
+
+}
+.card33{
+	background-color: white;
+	padding: 0.2% 8% 1.5% 5;
+	justify-content: space-between;
+	margin-right: 4%;
+	margin-left: 3%;
+}
+@media(max-width: 1366px){
+	.navbar a{
+		font-size: 13px;
+	}
+}
+
+
+
+
+
+
 
 
 
