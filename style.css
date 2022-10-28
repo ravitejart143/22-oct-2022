@@ -1,5 +1,4 @@
-{
-	margin: 0%;
+{	margin: 0%;
 	border: 1px solid red;
 }
 .navbar img{
@@ -20,9 +19,6 @@
 	text-decoration: none;
 
 
-}
-.img{
-	margin: 4%;
 }
 .wallet{
 	text-decoration: none;
@@ -57,14 +53,20 @@
 .section3{
 	background-color: #00BAF2;
 	font-size: 20px;
-	padding: 5% 10% 5% 8%;
+	padding: 10% 5% 8% 4%;
+}
+
+
 }
 .closely{
 	display: flex;
 	justify-content: space-evenly;
+	padding:  10% 5% 8% 4%;
+
 }
 .closely img{
 	width: 50%;
+
 }
 .maindiv{
 	background-color: white;
@@ -134,13 +136,9 @@
 	background-color: rgba(239, 239, 239, 0.5);
 	padding: 0.2% 8% 1.5% 5%;
 	display: flex;
+
 }
-.card22{
-	margin-top: 10%;
-	padding: 4%;
-	font-size: 40px;
-	font-family: 'poppins', sans-serif;
-}
+
 .sec7p1{
 	margin-top:5%;
 	padding: 4%;
@@ -166,7 +164,7 @@
 }
 .maindiv7{
 	display: flex;
-	padding: 0.2% 8% 1.5% 5;
+	padding: 5%;
 	margin-right: 4%;
 	margin-left: 3%;
 	justify-content: space-evenly;
@@ -174,15 +172,169 @@
 .card22{
 	background-color: white;
 	padding:  0.2% 8% 1.5% 5;
-	
+	margin-top: 10%;
+	padding: 4%;
+	font-size: 40px;
+	font-family: 'poppins', sans-serif;
+	margin-right: 5%;
 
 }
 .card33{
 	background-color: white;
+	padding: 4%;
+	margin-top: 10%;
+	padding: 4%;
+	font-size: 40px;
+	font-family: 'poppins', sans-serif;
+}
+.section8{
+	display: flex;
+	padding:0.2% 8% 1.5% 5;
+	background-color: rgba(239, 239, 239, 0.5);
+	margin-top: 10%;
+
+}
+.maindiv8{
+	display: flex;
 	padding: 0.2% 8% 1.5% 5;
-	justify-content: space-between;
 	margin-right: 4%;
 	margin-left: 3%;
+	justify-content: space-evenly;
+	background-color: white;
+
+}
+.button3{
+	padding: 2% 5% 3% 10%;
+	margin-top: 2%;
+	background-color: darkblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 24px;
+
+}
+
+.button4{
+	padding: 2% 5% 3% 10%;
+	margin-top: 2%;
+	background-color: darkblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 24px;
+}
+.h6{
+	font-size: 30px;
+}
+.setion9{
+	padding:0.2% 8% 1.5% 5;
+	background-color: rgba(239, 239, 239, 0.5);
+	margin-top:10%;
+}
+.maindiv9{
+	display: flex;
+	padding: 0.2% 5% 5% 4%;
+	margin-right: 5%;
+	margin-left: 5%;
+	justify-content: space-evenly;
+	background-color: white;
+}
+.section10{
+	padding:0.2% 8% 1.5% 5;
+	background-color: rgba(239, 239, 239, 0.5);
+	margin-top: 10%;
+}
+.maindiv10{
+	display: flex;
+	padding: 0.2% 5% 5% 4%;
+	margin-right: 5%;
+	margin-left: 5%;
+	justify-content: space-evenly;
+	background-color: white;
+}
+.button5{
+	padding: 2% 5% 3% 10%;
+	margin-top: 2%;
+	background-color: darkblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 24px;
+}
+.section11{
+	padding:0.2% 8% 1.5% 5;
+	background-color: rgba(239, 239, 239, 0.5);
+	margin-top: 10%;
+}
+.maindiv11{
+	display: flex;
+	padding: 0.2% 5% 5% 4%;
+	margin-right: 5%;
+	margin-left: 5%;
+	justify-content: space-evenly;
+	background-color: white;
+}
+.button6{
+	padding: 2% 5% 3% 10%;
+	margin-top: 2%;
+	background-color: skyblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 24px;
+}
+.section12{
+	padding:0.2% 8% 1.5% 5;
+	background-color: rgba(239, 239, 239, 0.5);
+	margin-top: 10%;
+}
+.maindiv12{
+	display: flex;
+	padding: 0.2% 5% 5% 4%;
+	margin-right: 10%;
+	margin-left: 5%;
+	justify-content: space-evenly;
+	background-color: white;
+}
+.button7{
+	padding: 2% 5% 3% 10%;
+	margin-top: 2%;
+	background-color: darkblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 24px;
+}
+.h99{
+	font-size: 30px;
+}
+.section13{
+	padding:10%
+	background-color: rgba(239, 239, 239, 0.5);
+	margin-top: 10%;
+	
+}
+.maindiv13{
+	display: flex;
+	padding: 10%;
+	margin-right: 5%;
+	margin-left: 5%;
+	justify-content: space-evenly;
+	background-color: white;
+}
+.button8{
+	padding: 2% 5% 3% 10%;
+	margin-top: 2%;
+	background-color: darkblue;
+	color: white;
+	border-radius: 10px;
+	font-size: 24px;
+}
+.p22{
+	font-size:35px;
+}
+
+
+
+
+
+
+
 }
 @media(max-width: 1366px){
 	.navbar a{
